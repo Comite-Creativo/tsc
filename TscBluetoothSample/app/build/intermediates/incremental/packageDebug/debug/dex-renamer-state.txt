@@ -1,0 +1,4 @@
+#Sun Feb 18 11:08:17 COT 2018
+base.0=C\:\\Users\\julia\\AndroidStudioProjects\\TscBluetoothSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
